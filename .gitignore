@@ -1,0 +1,11 @@
+# 编译产物（不需要Git跟踪）
+*.exe
+*.o
+*.obj
+*.out
+
+# 临时输出
+output.txt
+
+# IDE 配置
+.vscode/
